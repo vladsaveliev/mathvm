@@ -1,0 +1,3 @@
+function void fn(double i, int d) native 'strlen';
+
+fn(1.5, 3);
